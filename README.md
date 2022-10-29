@@ -144,7 +144,10 @@ See also: [System Design Primer](https://github.com/donnemartin/system-design-pr
 | books about google | [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328), [In The Plex](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) |
 
 
-also check out [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
+also check out
+
+- [xoogler.co](http://xoogler.co/), which organizes events, slack channels etc
+- [reddit.com/r/xoogler](https://reddit.com/r/xoogler)
 
 *disclaimer: I'm not affiliated with any of the technologies mentioned above.*
 
